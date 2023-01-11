@@ -1,3 +1,2 @@
-
-console.log(`💩💩💩💩💩💩`);
+console.log("💩💩💩💩💩💩");
 self.close();
