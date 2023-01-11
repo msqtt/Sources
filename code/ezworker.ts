@@ -1,3 +1,3 @@
-self.onmessage = event => {
-  console.log(`💩💩💩${event.data}💩💩💩`);
-};
+
+console.log(`💩💩💩💩💩💩`);
+self.close();
