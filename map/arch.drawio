@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T14:03:09.840Z" agent="5.0 (X11)" etag="Kv5TxTzACJ4qxUL8zaOI" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T14:04:37.706Z" agent="5.0 (X11)" etag="ltK3hgxK4FSYbMuxnTAR" version="20.8.23" type="github">
   <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
     <mxGraphModel dx="1560" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -58,16 +58,16 @@
           <mxGeometry x="210" y="590" width="650" height="120" as="geometry" />
         </mxCell>
         <mxCell id="12" value="DATA" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/device_registry.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="39" vertex="1">
-          <mxGeometry x="309.5" y="41" width="60" height="60" as="geometry" />
+          <mxGeometry x="310" y="31" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="59" value="DATABASE LAYER" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=0;" parent="39" vertex="1">
           <mxGeometry x="15" y="10" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EjRFLkqe3DR_ftD8AzSj-86" value="DATA" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/device_registry.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="39">
-          <mxGeometry x="565" y="41" width="60" height="60" as="geometry" />
+          <mxGeometry x="565" y="31" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EjRFLkqe3DR_ftD8AzSj-87" value="DATA" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/device_registry.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="39">
-          <mxGeometry x="60" y="41" width="60" height="60" as="geometry" />
+          <mxGeometry x="60" y="31" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="22" value="PUBLIC NETWORK" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" parent="21" vertex="1">
           <mxGeometry y="10" width="150" height="20" as="geometry" />
@@ -144,11 +144,21 @@
         <mxCell id="EjRFLkqe3DR_ftD8AzSj-84" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4277bb;strokeWidth=2;fontSize=16;fontColor=#4277bb;" edge="1" parent="21" source="EjRFLkqe3DR_ftD8AzSj-70" target="12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EjRFLkqe3DR_ftD8AzSj-88" value="&lt;i&gt;查询、管理数据&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#4277bb;" vertex="1" connectable="0" parent="EjRFLkqe3DR_ftD8AzSj-84">
+          <mxGeometry x="0.032" y="-9" relative="1" as="geometry">
+            <mxPoint x="5" y="36" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EjRFLkqe3DR_ftD8AzSj-70" value="后端服务器" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQ4cHgiIGhlaWdodD0iNDhweCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA0OCA0OCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+JiN4YTs8ZyBpZD0iY29sb3IiPiYjeGE7CTxnPiYjeGE7CQk8cGF0aCBmaWxsPSIjODk4Q0M1IiBkPSJNNDMuMjUsMTVoLTM2Yy0wLjU1MywwLTEsMC40NDctMSwxdjI2YzAsMC41NTMsMC40NDcsMSwxLDFoMzZjMC41NTMsMCwxLTAuNDQ3LDEtMVYxNiAgICBDNDQuMjUsMTUuNDQ3LDQzLjgwMywxNSw0My4yNSwxNXoiLz4mI3hhOwk8L2c+JiN4YTs8L2c+JiN4YTs8ZyBpZD0ib3V0bGluZSI+JiN4YTsJPGc+JiN4YTsJCTxwYXRoIGZpbGw9IiMzODRENjgiIGQ9Ik00MS4yNSwyMWMtMC41NTMsMC0xLDAuNDQ3LTEsMXYxN2gtMzZWMTNoOGMwLjU1MiwwLDEtMC40NDgsMS0xYzAtMC41NTMtMC40NDgtMS0xLTFoLTkgICAgYy0wLjU1MywwLTEsMC40NDctMSwxdjI4YzAsMC41NTMsMC40NDcsMSwxLDFoMzhjMC41NTIsMCwxLTAuNDQ3LDEtMVYyMkM0Mi4yNSwyMS40NDcsNDEuODAyLDIxLDQxLjI1LDIxeiBNNDUuOTQzLDExLjI3OCAgICBsLTUuOTExLTUuOTkzYy0wLjQwNy0wLjM4MS0xLjA2OS0wLjM4MS0xLjQ3OCwwYy0wLjQwOCwwLjM4Mi0wLjQwOCwxLDAsMS4zODFMNDIuNzgyLDExSDI0LjI1Yy03LjczMiwwLTE0LDYuMjY4LTE0LDE0djQgICAgYzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTF2LTRjMC02LjYyNyw1LjM3Mi0xMiwxMi0xMmgxOC40ODJsLTQuMTc4LDQuMzMzYy0wLjQwOCwwLjM4Mi0wLjQwOCwxLDAsMS4zODIgICAgYzAuNDA4LDAuMzgxLDEuMDcsMC4zODEsMS40NzgsMGw1LjkxMS02LjA1NkM0Ni4zNTIsMTIuMjc3LDQ2LjM1MiwxMS42NTksNDUuOTQzLDExLjI3OHoiLz4mI3hhOwk8L2c+JiN4YTs8L2c+JiN4YTs8L3N2Zz4=;fontSize=16;fontColor=#4277bb;" vertex="1" parent="21">
           <mxGeometry x="372" y="370" width="105" height="105" as="geometry" />
         </mxCell>
         <mxCell id="EjRFLkqe3DR_ftD8AzSj-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#4277bb;strokeWidth=2;fontSize=16;fontColor=#4277bb;" edge="1" parent="21" source="12" target="EjRFLkqe3DR_ftD8AzSj-70">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjRFLkqe3DR_ftD8AzSj-89" value="&lt;i&gt;返回数据&lt;br&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#4277bb;" vertex="1" connectable="0" parent="EjRFLkqe3DR_ftD8AzSj-85">
+          <mxGeometry x="0.4786" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
