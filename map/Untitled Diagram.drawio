@@ -1,6 +1,6 @@
-<mxfile modified="2023-04-11T08:50:52.046Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="HEhArKbUciW7KRTXLYMH" version="21.1.2" type="github">
+<mxfile modified="2023-04-11T08:53:48.030Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="GEVpR_r2Bz_FRzb9SGWY" version="21.1.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2469" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,9 +114,6 @@
           <mxGeometry x="0.5" width="50" height="36.5" relative="1" as="geometry">
             <mxPoint x="-25" y="16.75" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="818" value="Architecture: Backup and Archive &amp;gt; API Hosting" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="40" width="650" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
