@@ -1,16 +1,11 @@
-<mxfile modified="2023-04-11T06:05:41.446Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="Xlvq6sw1SkD_py9IG-9c" version="21.1.2" type="github">
+<mxfile modified="2023-04-11T06:06:25.497Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="rqTINjBXP0BdMfR6IBmI" version="21.1.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2469" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2729" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="14" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; color=&quot;#3d3d3d&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;FrameWork&lt;/b&gt;&lt;/font&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
+        <mxCell id="14" value="" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="220" width="940" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="15" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" parent="14" vertex="1">
-          <mxGeometry width="23" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="10" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-nS8iGSH2qJIPaDWt8Qc-1001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="14" source="987" target="997">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +104,7 @@
         <mxCell id="-nS8iGSH2qJIPaDWt8Qc-1005" value="" style="group;fillColor=#A5C4F3;" vertex="1" connectable="0" parent="14">
           <mxGeometry x="210" y="160" width="90" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="997" value="&lt;font color=&quot;#3d3d3d&quot;&gt;&lt;b&gt;Nitro&lt;/b&gt;&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#B4CBF3;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#A8BEF3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="-nS8iGSH2qJIPaDWt8Qc-1005" vertex="1">
+        <mxCell id="997" value="&lt;font color=&quot;#3d3d3d&quot;&gt;&lt;b&gt;Nitro&lt;/b&gt;&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#B4CBF3;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#4284F3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="-nS8iGSH2qJIPaDWt8Qc-1005" vertex="1">
           <mxGeometry width="90" height="230" as="geometry" />
         </mxCell>
         <mxCell id="985" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="-nS8iGSH2qJIPaDWt8Qc-1005" vertex="1">
