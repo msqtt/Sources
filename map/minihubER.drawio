@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T13:44:14.974Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="YsO39nXcNr92LkElgBQn" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T13:45:15.208Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ZmTkUsQVih3uN5y9tG2D" version="21.1.8" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1827" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -69,13 +69,16 @@
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-15" value="话题" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="880" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZiD4bpsWM2vaAbMM09D3-66" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=11;fontColor=#143642;endArrow=none;endFill=0;fillColor=#e1d5e7;" edge="1" parent="1" source="ZiD4bpsWM2vaAbMM09D3-16" target="ZiD4bpsWM2vaAbMM09D3-62">
+        <mxCell id="ZiD4bpsWM2vaAbMM09D3-66" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=11;fontColor=#143642;endArrow=none;endFill=0;fillColor=#e1d5e7;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZiD4bpsWM2vaAbMM09D3-3" target="ZiD4bpsWM2vaAbMM09D3-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-68" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=11;fontColor=#143642;endArrow=none;endFill=0;fillColor=#e1d5e7;" edge="1" parent="1" source="ZiD4bpsWM2vaAbMM09D3-16" target="ZiD4bpsWM2vaAbMM09D3-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-71" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=11;fontColor=#143642;endArrow=none;endFill=0;fillColor=#e1d5e7;" edge="1" parent="1" source="ZiD4bpsWM2vaAbMM09D3-16" target="ZiD4bpsWM2vaAbMM09D3-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZiD4bpsWM2vaAbMM09D3-92" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=11;fontColor=#143642;endArrow=none;endFill=0;fillColor=#e1d5e7;" edge="1" parent="1" source="ZiD4bpsWM2vaAbMM09D3-16" target="ZiD4bpsWM2vaAbMM09D3-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-16" value="帖子" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=18;" vertex="1" parent="1">
@@ -112,10 +115,10 @@
           <mxGeometry x="920" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-22" value="评论" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="600" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-29" value="点赞" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="620" width="80" height="80" as="geometry" />
+          <mxGeometry x="600" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-83" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=11;fontColor=#143642;endArrow=none;endFill=0;fillColor=#e1d5e7;" edge="1" parent="1" source="ZiD4bpsWM2vaAbMM09D3-32" target="ZiD4bpsWM2vaAbMM09D3-81">
           <mxGeometry relative="1" as="geometry" />
@@ -145,7 +148,7 @@
           <mxGeometry x="80" y="460" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-62" value="发布日期" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="440" width="60" height="60" as="geometry" />
+          <mxGeometry x="700" y="430" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-65" value="个人信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="580" width="60" height="60" as="geometry" />
@@ -178,7 +181,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-85" value="用户Id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="550" width="60" height="60" as="geometry" />
+          <mxGeometry x="520" y="580" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-88" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=11;fontColor=#143642;endArrow=none;endFill=0;fillColor=#e1d5e7;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZiD4bpsWM2vaAbMM09D3-22" target="ZiD4bpsWM2vaAbMM09D3-87">
           <mxGeometry relative="1" as="geometry" />
@@ -187,10 +190,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-86" value="帖子Id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="550" width="60" height="60" as="geometry" />
+          <mxGeometry x="610" y="580" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-87" value="评论内容" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="60" height="60" as="geometry" />
+          <mxGeometry x="700" y="580" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZiD4bpsWM2vaAbMM09D3-91" value="帖子状态" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="440" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
