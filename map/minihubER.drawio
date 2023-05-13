@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T12:57:11.103Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="GrtfX4EREiAIwk785tsn" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T12:59:03.555Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="X1itWV5Sqnt8ZIkeRox9" version="21.1.8" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1553" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="280" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-15" value="话题" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="160" height="80" as="geometry" />
+          <mxGeometry x="470" y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-16" value="帖子" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="680" y="360" width="160" height="80" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="ZiD4bpsWM2vaAbMM09D3-29" value="点赞" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZiD4bpsWM2vaAbMM09D3-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;收藏&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
