@@ -1,52 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T07:01:16.048Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="7l0OEondmMzbLBG3-8VS" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T07:05:33.667Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="smfF0eX97-gf0Wcl3O3m" version="21.7.4" type="github">
   <diagram name="Page-1" id="pJUkzvpek5c0bUQa1M0d">
-    <mxGraphModel dx="808" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1537" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-1" target="LaMXFO9Cv-glN5uBwck5-2">
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-1" target="LaMXFO9Cv-glN5uBwck5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-1" target="LaMXFO9Cv-glN5uBwck5-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LaMXFO9Cv-glN5uBwck5-1" value="统计 各单品的月销售量" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-2" target="LaMXFO9Cv-glN5uBwck5-5">
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-2" target="LaMXFO9Cv-glN5uBwck5-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-2" target="LaMXFO9Cv-glN5uBwck5-7">
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-2" target="LaMXFO9Cv-glN5uBwck5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LaMXFO9Cv-glN5uBwck5-2" value="统计 各品类的月销售量" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-5" target="LaMXFO9Cv-glN5uBwck5-11">
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-5" target="LaMXFO9Cv-glN5uBwck5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LaMXFO9Cv-glN5uBwck5-5" value="&lt;div&gt;绘制 销售量-月份&lt;/div&gt;&lt;div&gt;折线图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-7" value="&lt;div&gt;Pearson/Spearman&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;相关性分析&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-11" target="LaMXFO9Cv-glN5uBwck5-13">
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-11" target="LaMXFO9Cv-glN5uBwck5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-11" target="LaMXFO9Cv-glN5uBwck5-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LaMXFO9Cv-glN5uBwck5-11" value="正态性检验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-13" target="LaMXFO9Cv-glN5uBwck5-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-13" target="LaMXFO9Cv-glN5uBwck5-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LaMXFO9Cv-glN5uBwck5-13" value="&lt;div&gt;Kendall 一致性检验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LaMXFO9Cv-glN5uBwck5-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.6470588235294" y="630" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LaMXFO9Cv-glN5uBwck5-15" value="周期性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-20" value="周期性" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LaMXFO9Cv-glN5uBwck5-25" value="正态性" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
