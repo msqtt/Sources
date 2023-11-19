@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T02:40:46.556Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="RoqQYSpwDm6_uHFfFe3W" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T02:42:20.357Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="_CdyhjnJ9lVB7NuidjA5" version="22.1.3" type="github">
   <diagram name="Page-1" id="hLiTu2Dh88gtfW-2VZtG">
     <mxGraphModel dx="2212" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,6 +120,16 @@
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-22" target="sQFs4zmdVKK1XuDmlO7O-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-10" value="&lt;div&gt;Card&lt;/div&gt;&lt;div&gt;Reader&lt;/div&gt;&lt;div&gt;Input&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQFs4zmdVKK1XuDmlO7O-46">
+          <mxGeometry x="-0.4161" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-11" value="&lt;div&gt;Card&lt;/div&gt;&lt;div&gt;Reader&lt;/div&gt;&lt;div&gt;output&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQFs4zmdVKK1XuDmlO7O-46">
+          <mxGeometry x="0.6703" y="-1" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-22" value="&lt;div&gt;&amp;lt;&amp;lt;event driven&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;IO&amp;gt;&amp;gt; :CardReader&lt;/div&gt;&lt;div&gt;Interface&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="55" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -142,11 +152,21 @@
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-28" target="sQFs4zmdVKK1XuDmlO7O-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-12" value="&lt;div&gt;Customer&lt;/div&gt;&lt;div&gt;&amp;nbsp;Input&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQFs4zmdVKK1XuDmlO7O-45">
+          <mxGeometry x="0.6842" y="-3" relative="1" as="geometry">
+            <mxPoint x="-23" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-13" value="&lt;div&gt;Display&amp;nbsp;&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQFs4zmdVKK1XuDmlO7O-45">
+          <mxGeometry x="-0.6918" y="3" relative="1" as="geometry">
+            <mxPoint x="16" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-28" value="&lt;p&gt;«event driven» «external user» : ATMCustomer&lt;/p&gt;&lt;p&gt;KeypadDisplay&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="530" width="130" height="85" as="geometry" />
+          <mxGeometry x="-340" y="550" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-29" value="&lt;div&gt;&amp;lt;&amp;lt;event driven&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;external IO device&amp;gt;&amp;gt; :CardReader&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="180" width="130" height="70" as="geometry" />
+          <mxGeometry x="-260" y="155" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-30" value="&lt;div&gt;&amp;lt;&amp;lt;passive&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;external output device&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;: Crash Dispenser&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="140" width="120" height="60" as="geometry" />
