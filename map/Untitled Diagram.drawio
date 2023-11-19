@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T02:33:33.998Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="LqlFlnawmyJ_fYYWTt_a" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T02:34:40.576Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="QiKzKuEKtP9B9yhs-Q7a" version="22.1.3" type="github">
   <diagram name="Page-1" id="hLiTu2Dh88gtfW-2VZtG">
     <mxGraphModel dx="2212" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-29" value="&lt;div&gt;&amp;lt;&amp;lt;event driven&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;external IO device&amp;gt;&amp;gt; :CardReader&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="180" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sQFs4zmdVKK1XuDmlO7O-30" value="&amp;lt;&amp;lt;data abstract&amp;gt;&amp;gt;: ATM Transaction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sQFs4zmdVKK1XuDmlO7O-30" value="&lt;div&gt;&amp;lt;&amp;lt;passive&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;external output device&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;: Crash Dispenser&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-31" value="&amp;lt;&amp;lt;data abstract&amp;gt;&amp;gt;: ATM Transaction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
