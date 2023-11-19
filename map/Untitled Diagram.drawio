@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T02:43:07.526Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="WacjtXEJp3uN-PCXv-iL" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T02:44:20.543Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="QtNj_UflP4Cg0600TYOU" version="22.1.3" type="github">
   <diagram name="Page-1" id="hLiTu2Dh88gtfW-2VZtG">
     <mxGraphModel dx="2212" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,6 +60,16 @@
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-3" target="sQFs4zmdVKK1XuDmlO7O-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-16" value="&lt;div&gt;Transaction&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQFs4zmdVKK1XuDmlO7O-16">
+          <mxGeometry x="0.5354" y="3" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-17" value="&lt;div&gt;Transaction&lt;/div&gt;&lt;div&gt;Request&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQFs4zmdVKK1XuDmlO7O-16">
+          <mxGeometry x="-0.6364" y="3" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-3" value="&amp;lt;&amp;lt;data abstract&amp;gt;&amp;gt;: ATM Transaction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-15" value="&lt;div&gt;&amp;lt;demand&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;output&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;:ReceiptPrinter&lt;/div&gt;&lt;div&gt;Interface&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="680" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-19" target="sQFs4zmdVKK1XuDmlO7O-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
