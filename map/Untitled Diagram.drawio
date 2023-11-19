@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T02:47:56.574Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="q6Nad5exv7qT-1Bkl-CL" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T02:49:52.375Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="XMYUZfPFVcPQedyMlBZw" version="22.1.3" type="github">
   <diagram name="Page-1" id="hLiTu2Dh88gtfW-2VZtG">
-    <mxGraphModel dx="2212" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3050" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-28" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="40" width="1080" height="710" as="geometry" />
+        </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-1" target="sQFs4zmdVKK1XuDmlO7O-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -79,7 +82,7 @@
           <mxGeometry x="390" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-9" value="&lt;p&gt;«event driven» «user interaction» : Customer Interaction&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="545" width="130" height="70" as="geometry" />
+          <mxGeometry x="45" y="560" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-15" target="sQFs4zmdVKK1XuDmlO7O-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -151,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-20" value="&lt;div&gt;&amp;lt;demand&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;output&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;:CashDispenser&lt;/div&gt;&lt;div&gt;Interface&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-21" value="&amp;lt;&amp;lt;data abstract&amp;gt;&amp;gt;: :ATMCash" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="260" width="120" height="60" as="geometry" />
@@ -229,13 +232,13 @@
           <mxGeometry x="-260" y="155" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-30" value="&lt;div&gt;&amp;lt;&amp;lt;passive&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;external output device&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;: Crash Dispenser&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-31" value="&lt;div&gt;&amp;lt;&amp;lt;event driven&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;external user&amp;gt;&amp;gt; :Operator&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-32" value="&lt;div&gt;&amp;lt;passive&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;external output&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;:ReceiptPrinter&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-33" target="sQFs4zmdVKK1XuDmlO7O-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -251,7 +254,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-33" value="&lt;div&gt;&amp;lt;&amp;lt;service&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt; subsystem&amp;gt;&amp;gt;: BankService&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-29" value="&amp;lt;client&amp;gt; &amp;lt;subsystem&amp;gt;: ATMClient" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="50" width="95" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
