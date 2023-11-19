@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T02:39:47.440Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="G-1D8Ho0QZ3zPX4owu_Q" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T02:40:46.556Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="RoqQYSpwDm6_uHFfFe3W" version="22.1.3" type="github">
   <diagram name="Page-1" id="hLiTu2Dh88gtfW-2VZtG">
     <mxGraphModel dx="2212" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-1" value="&lt;div&gt;&amp;lt;&amp;lt;demand&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;state dependent&amp;gt;&amp;gt;: ATMControl&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-3" target="sQFs4zmdVKK1XuDmlO7O-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -99,6 +99,16 @@
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-22" target="sQFs4zmdVKK1XuDmlO7O-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-8" value="Card Inserted Card Ejected Card Confiscated" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQFs4zmdVKK1XuDmlO7O-36">
+          <mxGeometry x="0.6412" relative="1" as="geometry">
+            <mxPoint x="-29" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u96ek8NzeCGu-0_YFJXn-9" value="Eject, Confiscate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sQFs4zmdVKK1XuDmlO7O-36">
+          <mxGeometry x="-0.7469" y="2" relative="1" as="geometry">
+            <mxPoint x="10" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-22" target="sQFs4zmdVKK1XuDmlO7O-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -111,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-22" value="&lt;div&gt;&amp;lt;&amp;lt;event driven&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;IO&amp;gt;&amp;gt; :CardReader&lt;/div&gt;&lt;div&gt;Interface&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQFs4zmdVKK1XuDmlO7O-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="sQFs4zmdVKK1XuDmlO7O-25" target="sQFs4zmdVKK1XuDmlO7O-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
