@@ -1,85 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T13:50:55.058Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="koCML0y5pQmhgLebAA07" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T13:51:45.174Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="GvqCeGDjVgVQczbqiNhS" version="24.0.2" type="github">
   <diagram name="Page-1" id="GW02TrzgIK-zzw78TcEq">
     <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-1" value="SWMS" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-1" value="SWMS" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry y="240" width="680" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-3" value="业务层" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-3" value="业务层" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="jnyCTJYg-8QtuFiZsByJ-1" vertex="1">
           <mxGeometry x="40" y="380" width="600" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-9" value="基本信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-9" value="基本信息" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-10" value="学生干部" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-10" value="学生干部" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="165" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-11" value="就业统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-11" value="就业统计" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="310" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-12" value="贫困资助" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-12" value="贫困资助" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="460" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-13" value="请假记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-13" value="请假记录" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-14" value="奖学金记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-14" value="奖学金记录" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="165" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-22" value="学科竞赛" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-22" value="学科竞赛" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="310" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-31" value="论文专利软著" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-31" value="论文专利软著" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="460" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-32" value="处分情况" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-32" value="处分情况" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="20" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-33" value="CET成绩统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-33" value="CET成绩统计" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="165" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-34" value="学业预警" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-34" value="学业预警" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="310" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-35" value="招生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-35" value="招生信息" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="460" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-37" value="学籍变动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-37" value="学籍变动" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="20" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-38" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-38" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="165" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-39" value="权限管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-39" value="权限管理" style="ellipse;whiteSpace=wrap;html=1;" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
           <mxGeometry x="315" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-8" value="图表处理" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontStyle=0" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-3">
-          <mxGeometry x="470" y="310" width="100" height="80" as="geometry" />
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-8" value="图表处理" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontStyle=0" parent="jnyCTJYg-8QtuFiZsByJ-3" vertex="1">
+          <mxGeometry x="460" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-4" value="持久层" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-4" value="持久层" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="jnyCTJYg-8QtuFiZsByJ-1" vertex="1">
           <mxGeometry x="40" y="800" width="600" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-5" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-4">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-5" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="jnyCTJYg-8QtuFiZsByJ-4" vertex="1">
           <mxGeometry x="40" y="33.5" width="240" height="106.5" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-6" value="文件对象存储库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-4">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-6" value="文件对象存储库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="jnyCTJYg-8QtuFiZsByJ-4" vertex="1">
           <mxGeometry x="320" y="33.5" width="240" height="106.5" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-41" value="Web-BFF" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-41" value="Web-BFF" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="jnyCTJYg-8QtuFiZsByJ-1" vertex="1">
           <mxGeometry x="40" y="300" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-42" value="Web" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-42" value="Web" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="jnyCTJYg-8QtuFiZsByJ-1" vertex="1">
           <mxGeometry x="40" y="160" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-43" value="Applet" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-43" value="Applet" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="jnyCTJYg-8QtuFiZsByJ-1" vertex="1">
           <mxGeometry x="350" y="160" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-44" value="Applet-BFF" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-44" value="Applet-BFF" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="jnyCTJYg-8QtuFiZsByJ-1" vertex="1">
           <mxGeometry x="350" y="300" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-47" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="jnyCTJYg-8QtuFiZsByJ-1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-47" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="jnyCTJYg-8QtuFiZsByJ-1" vertex="1">
           <mxGeometry x="40" y="40" width="600" height="100" as="geometry" />
         </mxCell>
       </root>
