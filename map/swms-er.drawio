@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T12:51:59.500Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="13LcbqhmCHmMPSa6urej" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T12:53:10.697Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Imr4ktzQtcQASLvJyJu6" version="24.0.2" type="github">
   <diagram name="Page-1" id="Ix-445wSyXX7Rc5fptbm">
-    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,11 @@
         <mxCell id="8vq5FHL1kok4xc9j8ktI-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="8vq5FHL1kok4xc9j8ktI-21" target="8vq5FHL1kok4xc9j8ktI-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8vq5FHL1kok4xc9j8ktI-32" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="8vq5FHL1kok4xc9j8ktI-30">
+          <mxGeometry x="-0.25" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8vq5FHL1kok4xc9j8ktI-21" value="学生基本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,11 +78,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vq5FHL1kok4xc9j8ktI-22" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8vq5FHL1kok4xc9j8ktI-22" value="属于学生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="100" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8vq5FHL1kok4xc9j8ktI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="8vq5FHL1kok4xc9j8ktI-28" target="8vq5FHL1kok4xc9j8ktI-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vq5FHL1kok4xc9j8ktI-33" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="8vq5FHL1kok4xc9j8ktI-31">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8vq5FHL1kok4xc9j8ktI-28" value="学生干部职位信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="200" width="120" height="60" as="geometry" />
