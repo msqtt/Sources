@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T13:43:19.696Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="kGuBKK2Mm9otnvCHnMdl" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T13:43:33.687Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="n46WroRsgXKiAuQEptbf" version="24.0.2" type="github">
   <diagram name="Page-1" id="Ix-445wSyXX7Rc5fptbm">
     <mxGraphModel dx="1955" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vq5FHL1kok4xc9j8ktI-34" value="就业情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="8vq5FHL1kok4xc9j8ktI-34" value="就业统计情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8vq5FHL1kok4xc9j8ktI-37" value="贫困资助信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
