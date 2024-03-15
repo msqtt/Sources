@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T09:54:45.000Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="xKBq7WWm7K_4nx7DbcLy" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T09:55:22.790Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="eUVec1SuC1hwyfjYu8XA" version="24.0.5" type="github">
   <diagram name="Page-1" id="Ix-445wSyXX7Rc5fptbm">
     <mxGraphModel dx="3290" dy="2369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -260,7 +260,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdGCG-SB0l59NqtCDEV1-11" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="UdGCG-SB0l59NqtCDEV1-11" value="被处分" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="435" y="630" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UdGCG-SB0l59NqtCDEV1-26" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UdGCG-SB0l59NqtCDEV1-28" target="8vq5FHL1kok4xc9j8ktI-41" edge="1">
@@ -1350,6 +1350,15 @@
         </mxCell>
         <mxCell id="g9MzLy1HbwVEU1qFmZTT-31" value="&lt;div&gt;书记说职位太多，&lt;/div&gt;&lt;div&gt;想要直接输入文本&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="880.13" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g9MzLy1HbwVEU1qFmZTT-32" value="处分记录id" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="770.87" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g9MzLy1HbwVEU1qFmZTT-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" target="g9MzLy1HbwVEU1qFmZTT-32" source="UdGCG-SB0l59NqtCDEV1-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="620" as="sourcePoint" />
+            <mxPoint x="531" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
