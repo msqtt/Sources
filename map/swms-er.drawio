@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T09:55:22.790Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="eUVec1SuC1hwyfjYu8XA" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T09:55:58.045Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="Xsv1fH2UhFLOyDlLBaXB" version="24.0.5" type="github">
   <diagram name="Page-1" id="Ix-445wSyXX7Rc5fptbm">
-    <mxGraphModel dx="3290" dy="2369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2924" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -776,10 +776,10 @@
         <mxCell id="qUr6obBXIJf5H2OU3SSW-2" value="例：2023-2024_1&lt;br&gt;2023-2024_2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="847.5" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qUr6obBXIJf5H2OU3SSW-3" value="预警学期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="270.99" y="1020" width="84.13" height="50" as="geometry" />
+        <mxCell id="qUr6obBXIJf5H2OU3SSW-3" value="预警学期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="268.93" y="905" width="84.13" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qUr6obBXIJf5H2OU3SSW-4" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=16;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UdGCG-SB0l59NqtCDEV1-31" target="qUr6obBXIJf5H2OU3SSW-3" edge="1">
+        <mxCell id="qUr6obBXIJf5H2OU3SSW-4" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=16;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="UdGCG-SB0l59NqtCDEV1-28" target="qUr6obBXIJf5H2OU3SSW-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="231" y="950" as="sourcePoint" />
             <mxPoint x="279" y="950" as="targetPoint" />
@@ -1123,7 +1123,7 @@
         <mxCell id="g9MzLy1HbwVEU1qFmZTT-1" value="止学期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="761.87" y="440" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g9MzLy1HbwVEU1qFmZTT-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="g9MzLy1HbwVEU1qFmZTT-3" target="UdGCG-SB0l59NqtCDEV1-28">
+        <mxCell id="g9MzLy1HbwVEU1qFmZTT-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="g9MzLy1HbwVEU1qFmZTT-3" target="UdGCG-SB0l59NqtCDEV1-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g9MzLy1HbwVEU1qFmZTT-3" value="备注" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
