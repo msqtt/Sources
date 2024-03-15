@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T09:43:05.841Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="3CNwQ9LBnoZWYbhJlIKP" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T09:44:12.873Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="s73Hra4M0UGNLARwoHNP" version="24.0.5" type="github">
   <diagram name="Page-1" id="Ix-445wSyXX7Rc5fptbm">
     <mxGraphModel dx="2924" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -575,9 +575,6 @@
             <mxPoint x="781" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QJX_QexbaVsLy8P34nQR-269" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学号在ER图上忽略&lt;br&gt;在实际数据库设计中存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="190" y="550" width="200" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="QJX_QexbaVsLy8P34nQR-270" value="毕业年份" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1227.5" y="350" width="80" height="40" as="geometry" />
         </mxCell>
@@ -799,15 +796,6 @@
             <mxPoint x="231" y="950" as="sourcePoint" />
             <mxPoint x="279" y="950" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qUr6obBXIJf5H2OU3SSW-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学号在ER图上忽略&lt;br&gt;在实际数据库设计中存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="110.64000000000001" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qUr6obBXIJf5H2OU3SSW-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学号在ER图上忽略&lt;br&gt;在实际数据库设计中存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="735.6" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qUr6obBXIJf5H2OU3SSW-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学号在ER图上忽略&lt;br&gt;在实际数据库设计中存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="574.7" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QJX_QexbaVsLy8P34nQR-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;pid：permission&lt;/font&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMmF1dGhvcml0eSUyMiUyQyUyMnNlbnRlbmNlJTIyJTNBMCUyQyUyMmNoaWxkU2VudGVuY2UlMjIlM0EwJTdEJTVEJTdEJTVE&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，权限id&lt;/span&gt;&lt;br&gt;rid: role_id，角色id&lt;br&gt;uid：user_id，用户id&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="931.87" y="1475" width="200" height="70" as="geometry" />
