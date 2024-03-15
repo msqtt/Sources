@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T09:35:35.634Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="DT5Pm5m2Bc1BXlcxoPz9" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T09:38:37.132Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="54VAdf5XSiysv8mpLMbQ" version="24.0.5" type="github">
   <diagram name="Page-1" id="Ix-445wSyXX7Rc5fptbm">
-    <mxGraphModel dx="2280" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2578" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,7 +462,7 @@
           <mxGeometry x="398.26" y="204.04000000000002" width="100.87" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="QJX_QexbaVsLy8P34nQR-170" value="作者排序" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="499.13" y="204.04000000000002" width="100.87" height="37.5" as="geometry" />
+          <mxGeometry x="500.87" y="204.04000000000002" width="100.87" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="QJX_QexbaVsLy8P34nQR-171" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8vq5FHL1kok4xc9j8ktI-73" target="QJX_QexbaVsLy8P34nQR-170" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1328,6 +1328,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="-170" as="sourcePoint" />
             <mxPoint x="351.26" y="-114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g9MzLy1HbwVEU1qFmZTT-13" value="职位记录id" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g9MzLy1HbwVEU1qFmZTT-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="g9MzLy1HbwVEU1qFmZTT-13" source="8vq5FHL1kok4xc9j8ktI-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="270" as="sourcePoint" />
+            <mxPoint x="770" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
