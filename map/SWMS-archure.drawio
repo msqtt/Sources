@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T12:22:47.068Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="A_X6A4L3UWswa5fyQQdI" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T12:28:07.878Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="lHS3g4zRpzTE1rHwsclh" version="24.0.7" type="github">
   <diagram name="Page-1" id="GW02TrzgIK-zzw78TcEq">
-    <mxGraphModel dx="2936" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2240" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-1" value="SWMS" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=none;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-1" value="SWMS" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=none;rounded=0;shadow=0;glass=0;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-90" y="220" width="990" height="950" as="geometry">
             <mxRectangle x="-360" y="220" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -27,52 +27,52 @@
         <mxCell id="VZ3gEZ-EjABt7tpuUKtO-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="VZ3gEZ-EjABt7tpuUKtO-9">
           <mxGeometry width="580" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-9" value="基本信息" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-9" value="基本信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="60" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-10" value="学生干部" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-10" value="学生干部" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="180" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-11" value="就业统计" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-11" value="就业统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="300" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-12" value="贫困资助" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-12" value="贫困资助" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="420" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-13" value="请假记录" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-13" value="请假记录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="60" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-14" value="奖学金记录" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-14" value="奖学金记录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="180" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-22" value="学科竞赛" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-22" value="学科竞赛" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="300" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-31" value="论文专利软著" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-31" value="论文专利软著" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="420" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-32" value="处分情况" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-32" value="处分情况" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="60" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-33" value="CET成绩统计" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-33" value="CET成绩统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="180" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-34" value="学业预警" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-34" value="学业预警" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="300" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-35" value="招生信息" style="ellipse;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-35" value="招生信息" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="420" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-37" value="学籍变动" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-37" value="学籍变动" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="60" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-38" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-38" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="180" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-39" value="权限管理" style="ellipse;whiteSpace=wrap;html=1;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-39" value="权限管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="VZ3gEZ-EjABt7tpuUKtO-9" vertex="1">
           <mxGeometry x="300" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jnyCTJYg-8QtuFiZsByJ-4" value="数据层" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;startSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="VZ3gEZ-EjABt7tpuUKtO-11" vertex="1">
+        <mxCell id="jnyCTJYg-8QtuFiZsByJ-4" value="数据层" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;startSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=auto;" parent="VZ3gEZ-EjABt7tpuUKtO-11" vertex="1">
           <mxGeometry y="800" width="860" height="150" as="geometry" />
         </mxCell>
         <mxCell id="jnyCTJYg-8QtuFiZsByJ-5" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="jnyCTJYg-8QtuFiZsByJ-4" vertex="1">
