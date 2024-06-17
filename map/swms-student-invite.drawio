@@ -1,9 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T11:54:42.485Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.5.4" etag="EtP03swohg0LKAoFZqnZ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T12:00:45.526Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="3X81ka21x5e_4nMFm1oa" version="24.5.4" type="github">
   <diagram name="Page-1" id="AZbTlnKHMxRS44ZxFG7S">
-    <mxGraphModel>
+    <mxGraphModel dx="1391" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lDxl2vkOkyJqrI7BARTJ-2" target="lDxl2vkOkyJqrI7BARTJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-6" value="团队比赛信息上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lDxl2vkOkyJqrI7BARTJ-5">
+          <mxGeometry x="0.2019" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-2" value="StudentA(leader)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lDxl2vkOkyJqrI7BARTJ-20" target="lDxl2vkOkyJqrI7BARTJ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569.999980182316" y="450.0044827586207" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lDxl2vkOkyJqrI7BARTJ-20" target="lDxl2vkOkyJqrI7BARTJ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="449.97" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lDxl2vkOkyJqrI7BARTJ-20" target="lDxl2vkOkyJqrI7BARTJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569.999980182316" y="450.0044827586207" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDxl2vkOkyJqrI7BARTJ-4" target="lDxl2vkOkyJqrI7BARTJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-4" value="识别信息" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-7" value="StudentA 认领信息" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="379.97" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-9" value="StudentB 认领信息" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="434.97" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-10" value="StudentC 认领信息" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="499.97" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDxl2vkOkyJqrI7BARTJ-13" target="lDxl2vkOkyJqrI7BARTJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-22" value="审核成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lDxl2vkOkyJqrI7BARTJ-21">
+          <mxGeometry x="0.052" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-13" value="审核上报" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="340" y="425" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDxl2vkOkyJqrI7BARTJ-14" target="lDxl2vkOkyJqrI7BARTJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-14" value="比赛记录" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDxl2vkOkyJqrI7BARTJ-20" value="认领信息生成" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250.00000000000003" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
