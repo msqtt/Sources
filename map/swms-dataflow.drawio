@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T10:10:36.873Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="yxJ4G60AxwEjG69M_3Ky" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T10:15:54.474Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="d_9hjzdiI34dBMD-1TCC" version="24.5.2" type="github">
   <diagram name="Page-1" id="EUbfwgt0WfNZQSSa56V4">
     <mxGraphModel dx="795" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ejLEyTY-VwB0Lg7HUNk5-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ejLEyTY-VwB0Lg7HUNk5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ejLEyTY-VwB0Lg7HUNk5-3" target="ejLEyTY-VwB0Lg7HUNk5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ejLEyTY-VwB0Lg7HUNk5-3" value="读取表格" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="60" height="60" as="geometry" />
+          <mxGeometry x="260" y="240" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ejLEyTY-VwB0Lg7HUNk5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ejLEyTY-VwB0Lg7HUNk5-8" target="ejLEyTY-VwB0Lg7HUNk5-13">
           <mxGeometry relative="1" as="geometry" />
@@ -30,17 +30,38 @@
         <mxCell id="ejLEyTY-VwB0Lg7HUNk5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ejLEyTY-VwB0Lg7HUNk5-10" target="ejLEyTY-VwB0Lg7HUNk5-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-10" value="xlsx 格式数据" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="335" width="100" height="30" as="geometry" />
+        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-10" value="XLSX 数据" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ejLEyTY-VwB0Lg7HUNk5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ejLEyTY-VwB0Lg7HUNk5-13" target="ejLEyTY-VwB0Lg7HUNk5-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-13" value="xlsx 格式数据" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-20" value="请求服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ejLEyTY-VwB0Lg7HUNk5-18">
+          <mxGeometry x="-0.215" y="4" relative="1" as="geometry">
+            <mxPoint x="-46" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-13" value="JSON 数据" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="335" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-17" value="读取表格" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="540" y="200" width="60" height="60" as="geometry" />
+        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ejLEyTY-VwB0Lg7HUNk5-17" target="ejLEyTY-VwB0Lg7HUNk5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-23" value="持久化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ejLEyTY-VwB0Lg7HUNk5-22">
+          <mxGeometry x="0.0574" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-17" value="存取服务" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-21" value="DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="60" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
