@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T10:16:15.444Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="vfjjFul661nI4G95Cp9-" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T10:17:01.086Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="tg1mYc1mxcje2AJJ22SL" version="24.5.2" type="github">
   <diagram name="Page-1" id="EUbfwgt0WfNZQSSa56V4">
     <mxGraphModel dx="795" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,8 +57,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-17" value="存取服务" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="510" y="110" width="60" height="60" as="geometry" />
+        <mxCell id="ejLEyTY-VwB0Lg7HUNk5-17" value="存储服务" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ejLEyTY-VwB0Lg7HUNk5-21" value="DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="50" width="60" height="80" as="geometry" />
