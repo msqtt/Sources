@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T13:07:29.166Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="yb54qt4hVbjGpfsSzgjM" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T13:10:32.255Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="NICb4X0kbQrGYmPIxAMX" version="24.6.2" type="github">
   <diagram name="Page-1" id="eFmblNhzf9QaGGUQEju5">
-    <mxGraphModel dx="1267" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,19 +48,14 @@
             <mxPoint x="477" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9qIOV8EpZsGLg9kD6BlE-19" value="YOLO World" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" vertex="1" parent="1">
+        <mxCell id="9qIOV8EpZsGLg9kD6BlE-19" value="YOLOV8" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" vertex="1" parent="1">
           <mxGeometry x="470" y="520" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9qIOV8EpZsGLg9kD6BlE-24" value="Data collection" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.storage" vertex="1" parent="1">
-          <mxGeometry x="594" y="620" width="50" height="41" as="geometry" />
+          <mxGeometry x="650" y="710" width="50" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="9qIOV8EpZsGLg9kD6BlE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="9qIOV8EpZsGLg9kD6BlE-19" target="9qIOV8EpZsGLg9kD6BlE-24">
+        <mxCell id="9qIOV8EpZsGLg9kD6BlE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="9qIOV8EpZsGLg9kD6BlE-46" target="9qIOV8EpZsGLg9kD6BlE-24">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9qIOV8EpZsGLg9kD6BlE-28" value="Learning" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qIOV8EpZsGLg9kD6BlE-25">
-          <mxGeometry x="-0.1501" y="-22" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9qIOV8EpZsGLg9kD6BlE-26" value="AI Engineer" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.user_permissions;fillColor=#00188D;" vertex="1" parent="1">
           <mxGeometry x="290" y="620" width="47" height="50" as="geometry" />
@@ -102,7 +97,7 @@
         <mxCell id="9qIOV8EpZsGLg9kD6BlE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="9qIOV8EpZsGLg9kD6BlE-39" target="c2HthiqBb-Sy_DF1GoUE-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9qIOV8EpZsGLg9kD6BlE-1" value="&lt;div&gt;Repository&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
+        <mxCell id="9qIOV8EpZsGLg9kD6BlE-1" value="HDFS&lt;div&gt;Repository&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
           <mxGeometry x="710" y="159" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9qIOV8EpZsGLg9kD6BlE-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic" vertex="1" parent="1">
@@ -116,6 +111,9 @@
         </mxCell>
         <mxCell id="9qIOV8EpZsGLg9kD6BlE-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic" vertex="1" parent="1">
           <mxGeometry x="790" y="159" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9qIOV8EpZsGLg9kD6BlE-46" value="Bytetrack" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" vertex="1" parent="1">
+          <mxGeometry x="527" y="520" width="50" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
