@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2024-06-25T12:48:44.858Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="X2A7albDKvx6umsRoJSA" version="24.6.2" type="github">
+  <diagram name="Page-1" id="eFmblNhzf9QaGGUQEju5">
+    <mxGraphModel dx="896" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c2HthiqBb-Sy_DF1GoUE-1" value="Web Application" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HthiqBb-Sy_DF1GoUE-2" value="摄像头" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.general.video" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="49" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HthiqBb-Sy_DF1GoUE-3" value="Camera" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;fillColor=#00188D;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="60.86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HthiqBb-Sy_DF1GoUE-4" value="User" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HthiqBb-Sy_DF1GoUE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="c2HthiqBb-Sy_DF1GoUE-4" target="c2HthiqBb-Sy_DF1GoUE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2HthiqBb-Sy_DF1GoUE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="c2HthiqBb-Sy_DF1GoUE-3" target="c2HthiqBb-Sy_DF1GoUE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
