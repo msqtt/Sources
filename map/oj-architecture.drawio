@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T13:11:07.932Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="niJLVK3ltDymET_hQ84m" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T13:13:14.976Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="P7ezsC8SuBi51sGURTm7" version="24.6.3" type="github">
   <diagram name="Page-1" id="QzZd_IAzWdYlVaJUvz0e">
     <mxGraphModel dx="1518" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,25 @@
               <mxPoint x="150" y="414" />
               <mxPoint x="150" y="290" />
               <mxPoint x="272" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fwq9YYvaPhJEHygvi5cf-36" value="Admin BFF" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" vertex="1" parent="1">
+          <mxGeometry x="150" y="594" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fwq9YYvaPhJEHygvi5cf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="Fwq9YYvaPhJEHygvi5cf-36" target="Fwq9YYvaPhJEHygvi5cf-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="619" />
+              <mxPoint x="250" y="650" />
+              <mxPoint x="322" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fwq9YYvaPhJEHygvi5cf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="Fwq9YYvaPhJEHygvi5cf-36" target="Fwq9YYvaPhJEHygvi5cf-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432" y="619" />
             </Array>
           </mxGeometry>
         </mxCell>
