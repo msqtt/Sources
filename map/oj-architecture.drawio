@@ -1,17 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.7">
   <diagram name="Page-1" id="QzZd_IAzWdYlVaJUvz0e">
-    <mxGraphModel dx="1502" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hPZAuObZ41Z15zBgy_SH-5" value="Application" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" parent="1" vertex="1">
-          <mxGeometry x="20" y="451" width="50" height="39" as="geometry" />
+          <mxGeometry x="90" y="430" width="50" height="39" as="geometry" />
         </mxCell>
         <mxCell id="hPZAuObZ41Z15zBgy_SH-7" value="BFF" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" parent="1" vertex="1">
-          <mxGeometry x="220" y="389" width="43" height="50" as="geometry" />
+          <mxGeometry x="260" y="389" width="43" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hPZAuObZ41Z15zBgy_SH-9" value="Record Service" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.cloud" parent="1" vertex="1">
           <mxGeometry x="450" y="458" width="50" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ6JtrIhUhEAgBTIwW6t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="hPZAuObZ41Z15zBgy_SH-15" target="VZ6JtrIhUhEAgBTIwW6t-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPZAuObZ41Z15zBgy_SH-15" value="Judgement Service" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.cloud" parent="1" vertex="1">
           <mxGeometry x="780" y="420" width="50" height="32" as="geometry" />
@@ -70,6 +73,21 @@
           <mxGeometry x="0.2238" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VZ6JtrIhUhEAgBTIwW6t-10" value="&lt;div&gt;Case OSS&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.document" vertex="1" parent="1">
+          <mxGeometry x="947" y="240" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ6JtrIhUhEAgBTIwW6t-11" value="Question Case" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.triggers;fillColor=#00188D;" vertex="1" parent="1">
+          <mxGeometry x="840" y="270" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ6JtrIhUhEAgBTIwW6t-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="VZ6JtrIhUhEAgBTIwW6t-11" target="VZ6JtrIhUhEAgBTIwW6t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ6JtrIhUhEAgBTIwW6t-16" value="Question Service" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.cloud" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="50" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ6JtrIhUhEAgBTIwW6t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="VZ6JtrIhUhEAgBTIwW6t-16" target="VZ6JtrIhUhEAgBTIwW6t-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
